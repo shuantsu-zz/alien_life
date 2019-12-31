@@ -1,2 +1,2 @@
-# alien_life
+# Alien life
 Padrões fractais com canvas
