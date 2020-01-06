@@ -1,6 +1,7 @@
 # Alien life
+
 Padrões fractais com canvas
 
-![Image of the script](thumb.png)
+<kbd>![Thumbnail](thumb.png)</kbd>
 
 https://shuantsu.github.io/alien_life/
